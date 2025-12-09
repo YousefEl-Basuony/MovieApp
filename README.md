@@ -5,10 +5,6 @@ A modern, elegant Android movie discovery and management app built with Jetpack 
 ## 📱 Features
 
 
-
-
-
-
 ### Core Features
 
 - **Movie Discovery**: Browse popular, top-rated, and upcoming movies
